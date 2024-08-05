@@ -1,7 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 [![Webex Events](https://github.com/SocioEvents/webex-events-php-sdk/actions/workflows/php.yml/badge.svg)](https://github.com/SocioEvents/webex-events-php-sdk/actions)
 
-⚠️ This library has not been released yet. 
 
 [![Webex EVENTS](webex-events-logo-white.svg 'Webex Events')](https://socio.events)
 
